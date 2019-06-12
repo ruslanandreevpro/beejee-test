@@ -1,0 +1,32 @@
+.TODOList {
+  margin-top: 60px;
+
+  .done {
+    color: green;
+  }
+
+  .process {
+    color: red;
+  }
+
+  .addButton {
+    margin-top: 60px;
+  }
+
+  .statusCell {
+    display: flex;
+    align-items: center;
+  }
+
+  .statusDone {
+
+  }
+
+  .statusEdit {
+
+  }
+
+  .statusDelete {
+
+  }
+}

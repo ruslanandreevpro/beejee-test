@@ -1,0 +1,9 @@
+.Layout {
+  height: 100vh;
+  position: relative;
+
+  .main {
+    display: flex;
+    flex-grow: 1;
+  }
+}
